@@ -1,1 +1,18 @@
-{}
+[
+  {
+    "name":"Simple Account Manager",
+    "author":"Horsera",
+    "version":"0.1",
+    "description":"A simple module for registering, and using accounts. Changing password is also supported.",
+    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "download":"/"
+  },
+  {
+    "name":"Community manager",
+    "author":"Horsera",
+    "version":"0.2",
+    "description":"A Wall with likeable posts that users can add. Posts are sorted by their likes divided by how many seconds ago they were posted.",
+    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "download":"/"
+  }
+]
