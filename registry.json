@@ -4,15 +4,47 @@
     "author":"Horsera",
     "version":"0.1",
     "description":"A simple module for registering, and using accounts. Changing password is also supported.",
-    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "image":"https://raw.githubusercontent.com/TasKesk/horsera-workshop/main/account-manager.zip",
     "download":"/"
   },
   {
-    "name":"Community manager",
+    "name":"Community posts",
     "author":"Horsera",
     "version":"0.2",
     "description":"A Wall with likeable posts that users can add. Posts are sorted by their likes divided by how many seconds ago they were posted.",
     "image":"https://i.imgur.com/eSXn7Z8.png",
-    "download":"/"
+    "download":"https://raw.githubusercontent.com/TasKesk/horsera-workshop/main/community-posts.zip"
+  },
+  {
+    "name":"Messaging",
+    "author":"Horsera",
+    "version":"0.1",
+    "description":"Allows users to send direct messages between each other. It still looks like e-mail, but it will be updated to look like most modern messaging apps.",
+    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "download":"https://raw.githubusercontent.com/TasKesk/horsera-workshop/main/messaging.zip"
+  },
+  {
+    "name":"Follow List",
+    "author":"Horsera",
+    "version":"0.1",
+    "description":"Allows users to follow other users. For example, if the community posts module detects that followlists are installed, it will add a filter to see only the people who you follow.",
+    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "download":"https://raw.githubusercontent.com/TasKesk/horsera-workshop/main/followlist.zip"
+  },
+  {
+    "name":"Biographies",
+    "author":"Horsera",
+    "version":"0.1",
+    "description":"Allows users to have a biography for their account, and see other biographies. It is intended to be used with other modules.",
+    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "download":"https://raw.githubusercontent.com/TasKesk/horsera-workshop/main/biographies.zip"
+  },
+  {
+    "name":"File repository",
+    "author":"Horsera",
+    "version":"0.1",
+    "description":"Allows the administrator to post files that can be downloaded by anyone visiting the site. It is useless because you can use your web server.",
+    "image":"https://i.imgur.com/eSXn7Z8.png",
+    "download":"https://raw.githubusercontent.com/TasKesk/horsera-workshop/main/file-repository.zip"
   }
 ]
